@@ -7,7 +7,8 @@ Som indata tar programmet en excel enligt tidigare känt format (saknar referens
 Som utdata skapar programmet en ny excel-fil med alla tillgängliga fält från mentalbeskrivningsformuläret
 sammanställt valp för valp på enskilda rader.
 
-** OBSERVERA **
+**OBSERVERA**
+
 Det finns flera versioner ute i det vilda för Mentalbeskrivning valp.
 Denna applikationer förutsätter att indatat inte har fälten 2c, 2d, 6bb, ljud/frustration 
 
